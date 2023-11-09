@@ -12,7 +12,7 @@
 
 🎓 College Student on Universitas Pamulang<br>
 💻 Interested in Front End Web Development<br>
-🔭 Currently studying React and several other technologies such as NextJS, AstroJS, ExpressJS, and others
+🔭 Currently studying React and several other technologies such as NextJS, ExpressJS, Astro, and others
 
 
 
