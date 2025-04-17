@@ -1,6 +1,6 @@
 ## 🤖 Nastavnic
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hello%2C+I'm+Arya+Naufal+and+Welcome+to+my+Profile!+animated+typed+out)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hello%2C+I'm+Arya+Naufal+animated+typed+out)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
