@@ -4,6 +4,8 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2800&pause=2000&color=A9FEF7&left=true&vCenter=true&width=940&lines=Hi%2C+Im+Arya Naufal+and+Welcome+to+my+Profile!" alt="Hey, I'm Arya Naufal and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Arya+Naufal+and+Welcome+to+my+Profile!+animated+typed+out)](https://git.io/typing-svg)
+
 ## 🚀 About Me
 
 - 🎓 I’m college student on Universitas Pamulang
